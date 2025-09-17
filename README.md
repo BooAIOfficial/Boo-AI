@@ -1,4 +1,12 @@
-# Boo AI - Your Spooky Smart Assistant
+<div align="center">
+  <img src="https://res.cloudinary.com/dmipavrnm/image/upload/v1758101764/att.xk7lUgSS7irDp4LZgohgELtQJFHaI_zNPzSfVHfzer8_n3zqdt.jpg" alt="Boo AI Logo" width="200" />
+  
+  [![Follow on X](https://img.shields.io/badge/Follow-@boocoin_sol-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/boocoin_sol)
+</div>
+
+---
+
+# <div align="center"> Boo AI
 
 ## Introduction
 
@@ -34,7 +42,7 @@ The interface design prioritizes clarity and ease of use without sacrificing vis
 
 The visual identity of Boo AI reflects the project's commitment to authenticity and spooky personality. The gallery showcases different perspectives and expressions, each accompanied by relatable, humorous captions that demonstrate Boo AI's ghostly personality and approach to communication.
 
-![Boo AI Portrait 1](https://res.cloudinary.com/dmipavrnm/image/upload/v1758101764/att.xk7lUgSS7irDp4LZgohgELtQJFHaI_zNPzSfVHfzer8_n3zqdt.jpg)
+![Boo AI Portrait 1](https://res.cloudinary.com/dmipavrnm/image/upload/v1758101766/att.iJ-sWXzcxnW1qEcVd_-bzkQ31w5A6jMIt2KqRDHY2kQ.gif_stzx7s.gif)
 
 The main portrait captures that friendly ghost energy - approachable but with just enough spookiness to keep things interesting.
 
